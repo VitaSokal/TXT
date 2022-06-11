@@ -1,0 +1,10 @@
+gitbash
+postman
+charles
+fiddler
+devtools
+XCode
+Android Studio
+SQL
+Jmeter
+
